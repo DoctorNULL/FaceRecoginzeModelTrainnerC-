@@ -249,9 +249,9 @@ void recoginze(VideoCapture cam, CascadeClassifier det)
 
 			model->predict(temp, predictedLabel, c);
 
-			persentage = 100 - c;
+			persentage = (60 - c) / 60 * 100;
 
-			if (persentage >= 65)
+			if (c <= 60)
 			{
 				rectangle(frame, faces[i], Scalar(0, 255, 0));
 				x = getPersonById(p, predictedLabel);
