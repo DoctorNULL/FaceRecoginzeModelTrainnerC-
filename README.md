@@ -17,8 +17,8 @@ recoginze each person in front of a camera by making the computer identitfy this
 to use it in any other application such as face identification , submit attendance and security elements like identifying people entering some place
 
 # Solution
-1- Get a computer with attached camera ready (**Recommended** : *high quality camera*)
-2- Using OpenCV liberary create a dataset for the person required to be known
-3- Repet step 2 until we get all required persons
-4- Train a model using LBPH Face Recognizer in OpenCV face module
-5- Open the camera again in the identification state to identify anyone in front of it
+1. Get a computer with attached camera ready (**Recommended** : *high quality camera*)
+2. Using OpenCV liberary create a dataset for the person required to be known
+3. Repet step 2 until we get all required persons
+4. Train a model using LBPH Face Recognizer in OpenCV face module
+5. Open the camera again in the identification state to identify anyone in front of it
