@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=yRfdnYWWlOM&ab_channel=MiDOMostafa
 4. Extract the downloaded file
 5. Run the exe file
 6. Press 1 to create dataset
-7. Talk 20 Pictures for the person you wanne add
+7. Talk 60 Pictures for the person you wanne add
 8. Repet 6,7 until you finish all people
 9. Press 2 to Train a model
 10. Press 3 and enjoy
