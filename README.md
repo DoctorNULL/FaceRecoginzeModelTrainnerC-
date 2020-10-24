@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=yRfdnYWWlOM&ab_channel=MiDOMostafa
 # Steps
 1. Download OpenCV 4.4.0 from https://opencv.org/
 2. Install the required OpenCV dll files into windows system directry by using cmake on OpenCV files
-3. Download the program from http://www.mediafire.com/file/5f7p5ydb5jcx3cz/FaceRecoginzer.rar/file
+3. Download the program from http://www.mediafire.com/file/v5r03iujqmzqs12/FaceRecognizer.rar/file
 4. Extract the downloaded file
 5. Run the exe file
 6. Press 1 to create dataset
