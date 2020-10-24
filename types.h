@@ -16,7 +16,7 @@ using namespace face;
 
 #endif // !libs
 
-#define dataLen 20
+#define dataLen 60
 #define imgSize 250
 
 enum operation {
