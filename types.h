@@ -71,6 +71,8 @@ public :
 			name += c;
 			in >> c;
 		}
+		
+		in.putback(c);
 
 		s << sid;
 		s >> id;
